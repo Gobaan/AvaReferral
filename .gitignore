@@ -1,0 +1,4 @@
+referrals/
+*.pyc
+*.log
+credentials.py
